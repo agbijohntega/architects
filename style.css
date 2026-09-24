@@ -40,7 +40,7 @@
     
 }
 .headerright ol:hover{
-    /* background-color:rgba(0, 0, 0, 0.322);  */
+
     padding:10px ;
 }
 .headerright li a{
@@ -83,7 +83,6 @@
 }
 .ab{
     width: 25%;
-   /* border: 5px solid burlywood; */
    position: relative;
 
 }
@@ -107,7 +106,6 @@
 }
 .cd{
     width: 25%;
-    /* border: 5px solid burlywood; */
     position: relative;
 }
 .cd img{
@@ -272,7 +270,7 @@
         font-size: 5px;
     }
     .img1 img{
-        width: 70%;
+        width: 71%;
     }
  }
 
