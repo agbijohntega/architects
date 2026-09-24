@@ -132,6 +132,10 @@
     padding: 10px 0px 10px 30px;
     font-weight: 100;
 }
+.about2 h1{
+    padding: 10px 0px 10px 5px;
+    font-weight: 100;
+}
 .About h2{
     color: rgba(0, 0, 0, 0.534);
     font-size: 20px;
@@ -237,10 +241,12 @@
         width: 100%;
     }
     .About h1{
-        font-size: 10px;
+        font-size: 20px;
+        text-align: start;
     }
     .about1 p{
-        font-size: 10px;
+        font-size: 17px;
+        text-align: start;
     }
     .about2{
         flex-direction: column;
@@ -262,15 +268,16 @@
         width: 100%;
     }  
     .contact input{
-        width: 70%;
+        width: 80%;
         height: 0.3vh;
     }
     .contact button{
         height: 0.3vh;
         font-size: 5px;
+        border: none;
     }
     .img1 img{
-        width: 100%;
+        width: 80%;
     }
  }
 
