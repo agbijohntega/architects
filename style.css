@@ -132,20 +132,23 @@
     padding: 10px 0px 10px 30px;
     font-weight: 100;
 }
+.about1 p{
+    text-align: justify;
+}
 .about2 h1{
-    padding: 10px 0px 10px 5px;
+    padding: 10px 0px ;
     font-weight: 100;
 }
 .About h2{
     color: rgba(0, 0, 0, 0.534);
     font-size: 20px;
     font-weight: 100;
-    padding:10px 0px 10px 5px ;
+    padding:10px 0px  ;
 }
 .about2 p {
     font-weight: 100;
     font-size: 20px;
-    padding: 10px;
+    padding: 10px 0px;
 }
 .about2 h3{
     background-color: rgba(0, 0, 0, 0.306);
@@ -239,6 +242,9 @@
     }
     .project1 .ab,.project2 .cd{
         width: 100%;
+    }
+    .About{
+        text-align: start;
     }
     .About h1{
         font-size: 20px;
